@@ -86,7 +86,8 @@ The API can be run locally or using Docker. If you're running locally, you'll ne
 | PUT    | /ratings/:id       | Edit the rating with the same properties as the POST endpoint                               |
 | DELETE | /ratings/:id       | Delete the rating                                                                           |
      
-
+### Postman documentation
+You can view the API docs <a href="https://documenter.getpostman.com/view/22918885/2sA3kd9wnC">here</a>.
 ### Tests
 Unit tests have been implemented for the API services using Jest.
 
