@@ -54,7 +54,7 @@ The API can be run locally or using Docker. If you're running locally, you'll ne
    ```
 3. The application will be running at `http://localhost:3000/`
 
-#### Rodando localmente
+#### Running locally
 
 1. Clone o repositório
    ```sh
